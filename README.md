@@ -1,2 +1,2 @@
-# nvim_env
+# nvim environment
 nvim settings.
